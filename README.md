@@ -1,5 +1,9 @@
 # README
 
+## SERVER CONFIGURATION
+
+In order to make ActiveMQ be able to use the Stomp protocol, you need to enable it. Here is a guide by Apache on enabling ActiveMQ for Stomp: http://activemq.apache.org/stomp.html
+
 ## DEPENDENCIES
 
 `stomppy` (python library for STOMP communication with ActiveMQ)<br/>
